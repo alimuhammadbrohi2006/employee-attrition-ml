@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+# Jupyter
+.ipynb_checkpoints/
+# Credentials and environment
+.env
+.env.*
+!.env.example
+kaggle.json
+.kaggle/
+# Local datasets and outputs
+/WA_Fn-UseC_-HR-Employee-Attrition.csv
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
